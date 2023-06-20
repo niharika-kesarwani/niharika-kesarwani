@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
+![](https://komarev.com/ghpvc/?username=niharika-kesarwani&color=blueviolet)
+
 I am familiar with CLI, HTML, CSS, JavaScript, NodeJS, VanillaJS, ReactJS, Git, GitHub, Flutter, C, and Java, amongst many others and have several projects related to the above technologies, some of which my portfolio showcases. I wish to be a full-stack web developer and am forever eager to learn, grow and expand my knowledge!
 
 * 🌍  I'm based in Nasik, Maharashtra
@@ -17,8 +19,7 @@ I am familiar with CLI, HTML, CSS, JavaScript, NodeJS, VanillaJS, ReactJS, Git, 
 <a href="https://www.github.com/niharika-kesarwani" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/niharika-kesarwani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Niharika_twt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Niharika_twt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/niharikakesarwani" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/niharikakesarwani?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+/></a>
 
 ### Skills
 
