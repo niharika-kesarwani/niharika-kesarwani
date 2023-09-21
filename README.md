@@ -12,8 +12,8 @@ I am familiar with CLI, HTML, CSS, JavaScript, NodeJS, VanillaJS, ReactJS, Git, 
 * 🖥️  See my portfolio at [MyPortfolio](http://niharikakesarwani.netlify.app/)
 * ✉️  You can contact me at [kesarwani.neha9@gmail.com](mailto:kesarwani.neha9@gmail.com)
 * 🚀  I'm currently working on [a social media app](http://sociohaven.netlify.app/)
-* 🧠  I'm learning React and GraphQL :)
-* 🤝  I'm open to collaborating on Projects
+* 🧠  I'm learning backend and redux :)
+* 🤝  I'm open to collaborating on projects
 * ⚡  I love music of all kinds! 💜
 
 <a href="https://www.github.com/niharika-kesarwani" target="_blank" rel="noreferrer"><img
